@@ -1,4 +1,4 @@
-#Estadistica Aplicada
+# Estadistica Aplicada
 
 Licenciatura en Actuaria FCFM-UANL
 
